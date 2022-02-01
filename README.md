@@ -71,6 +71,6 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/Rahul-Roy-21"><img src="https://avatars.githubusercontent.com/u/86934009?v=4" width="100px;" alt=""/><br /><sub><b>Rahul</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HimaghnaDas"><img src="https://avatars.githubusercontent.com/u/92687480?v=4" width="100px;" alt=""/><br /><sub><b>Himaghna</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Vivek-kumar21"><img src="https://avatars.githubusercontent.com/u/92684075?v=4" width="100px;" alt=""/><br /><sub><b>Vivek</b></sub></a><br /></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/92684075?v=4" width="100px;" alt=""/><br /><sub><b>This Can be You</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Craftsmen-GDSC/craftsmen/blob/main/CONTRIBUTING.md"><img src="https://avatars.githubusercontent.com/u/92684075?v=4" width="100px;" alt=""/><br /><sub><b>This Can be You</b></sub></a><br /></td>
   </tr>
 </table>
